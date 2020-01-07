@@ -9,6 +9,7 @@ http://blog.huangyuanlove.com/2020/01/06/写在2020年初-2019总结/
 * iOS基础，先把"煎蛋"写完
 * 数据结构与算法，浙江大学公开课，把习题做一遍，不能手高眼低
 * LeetCode刷一刷，最起码简单的题要信手拈来
+* 迁移到Android jetpack compose
 * Android音视频、Android源码设计模式(应该会偏源码)
 * Android和flutter系统架构
 
