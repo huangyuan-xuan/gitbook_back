@@ -5,9 +5,9 @@ bui# Summary
 
 * 2020年
     * 一月
-        * [一月](2020/一月/huangyuan.md)
+        * [huangyuan](2020/一月/huangyuan.md)
     * 二月
-        * [二月](2020/二月/huangyuan.md)
+        * [huangyuan](2020/二月/huangyuan.md)
     * 三月
         * [huangyuan](2020/三月/huangyuan.md)
     * 四月
