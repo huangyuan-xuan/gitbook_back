@@ -14,6 +14,8 @@ bui# Summary
         * [huangyuan](2020/四月/huangyuan.md)
     * [五月](descFor2020.md)
         * [huangyuan](2020/五月/huangyuan.md)
+    * [六月](descFor2020.md)
+        * [huangyuan](2020/六月/huangyuan.md)
 ----
 
 * 2019年
