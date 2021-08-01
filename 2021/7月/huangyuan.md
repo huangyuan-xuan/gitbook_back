@@ -6,3 +6,10 @@
 * glide
 * gson
 * 自定义控件：仿做一些效果
+
+
+### 实际
+
+* retrofit2源码
+* Glide源码
+* Vue基础
