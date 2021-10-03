@@ -22,6 +22,8 @@ bui# Summary
         * [huangyuan](2021/8月/huangyuan.md)
     * [九月](2021/descFor2021.md)
         * [huangyuan](2021/9月/huangyuan.md)
+    * [十月](2021/descFor2021.md)
+        * [huangyuan](2021/10月/huangyuan.md)
 * 2020年
     * [一月](2020/descFor2020.md)
         * [huangyuan](2020/1月/huangyuan.md)
