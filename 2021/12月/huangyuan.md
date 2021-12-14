@@ -2,4 +2,4 @@
 
 * 学习一下dart
 * 重拾flutter
-* 用flutter仿写一个简易的PostMan，预计春雨完成
+* 学习Flutter状态管理Riverpod，为仿写PostMan做准备
