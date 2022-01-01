@@ -4,7 +4,7 @@
 
 2021年，娃娃出生了，嘿嘿嘿
 
-[https://blog.huangyuanlove.com/2022/01/01/%E5%86%99%E5%9C%A82022%E5%B9%B4%E5%88%9D--2021%E6%80%BB%E7%BB%93](https://blog.huangyuanlove.com/2022/01/01/写在2022年初--2021总结/)<br/>
+[https://blog.huangyuanlove.com/2022/01/01/%E5%86%99%E5%9C%A82022%E5%B9%B4%E5%88%9D-2021%E6%80%BB%E7%BB%93](https://blog.huangyuanlove.com/2022/01/01/写在2022年初-2021总结/)<br/>
 
 今年算是系统的学习了一下前端的技术，比如vue和react。还写了点小程序，鸿蒙应用，都是浅尝辄止罢了。
 剩下的就是翻了翻源码，比如okhttp、gson、retrofit等。
