@@ -2,6 +2,12 @@
 
 * [写在前面](README.md)
 
+
+----
+
+* 2024年
+    * [huangyuan](2024/huangyuan.md)
+
 ----
 
 * 2023年
@@ -26,7 +32,3 @@
 
 * 2019年
     * [huangyuan](2019/huangyuan.md)
-
-----
-* 资料
-    * [朱涛·Kotlin编程第一课](geektime/kotlin/test.md)

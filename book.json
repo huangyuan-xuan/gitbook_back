@@ -1,0 +1,35 @@
+{
+    "title":"学习笔记",
+    "author":"huangyuan",
+
+    "plugins":[
+      
+        "highlight"
+
+    ],
+    "pluginsConfig":{
+        "theme-default":{
+            "showLevel":true
+        },
+
+        "highlight": {
+            "theme": "github",
+            "languages": ["javascript", "python","kotlin","java"],
+            "autoDetect": true,
+            "lineNumber": true
+          },
+        "bibtex-indexed-cite":{
+            "path":"/"
+        }
+    },
+    "pdf": {
+        "pageSize": "A4",
+        "margin": {
+          "top": 40,
+          "right": 30,
+          "bottom": 40,
+          "left": 30
+        }
+      }
+}
+
